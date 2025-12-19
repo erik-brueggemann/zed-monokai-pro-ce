@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repo now lives under https://github.com/monokai-pro/zed
+
 # Monokai Pro (CE) for [Zed](https://zed.dev/)
 
 ![Screenshot](screenshot.png)
